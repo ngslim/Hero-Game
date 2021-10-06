@@ -1,0 +1,81 @@
+Sun Jun 13 11:40:21 2021|2|Metal
+Nguyen Si Liem
+Sniper;Fire;0;36;2;26.1
+Trasex;Metal;0;40;2;24.3
+Naga Siren;Water;0;56;3;28.8
+beheo98
+Troll;Earth;0;52.8;2.5;13.5
+Treant Protector;Wood;515.5;62;1.5;34.2
+Luna;Metal;500.25;43;3;18
+Sun Jun 13 11:44:31 2021|1|Earth
+Nguyen Si Liem
+Luna;Metal;0;43;3;14.58
+Kayn;Dark;0;9999;9999;1
+Syndra;Fire;500;100;3;20
+Teo
+Naga Siren;Water;0;56;6;28.8
+Troll;Earth;0;48;2.5;15
+Kayn;Dark;0;9999;9999;1
+Sun Jun 13 11:46:10 2021|1|Wood
+Nguyen Si Liem
+Nami;Water;0;20;0;16.2
+Malphite;Earth;862;121;50;100
+Ursa;Earth;569.39;45;5;35
+Nguyen Tien Loc
+Trasex;Metal;0;40;2;27
+Naga Siren;Water;0;56;3;32
+Nami;Water;0;20;0;20
+Sun Jun 13 11:48:42 2021|2|Earth
+19120272
+Sniper;Fire;0;36;2;29
+Sniper;Fire;0;36;2;29
+Sniper;Fire;0;36;2;29
+Ti
+Treant Protector;Wood;0;62;1.5;38
+Hecarim;Wood;472;100;20;50
+Troll;Earth;620;48;2.5;12.15
+Sun Jun 13 11:49:00 2021|2|Wood
+19120272
+Gumball;Dark;0;9999;9999;1
+Sniper;Fire;0;36;2;26.1
+Sniper;Fire;0;36;2;26.1
+pepsi
+Gumball;Dark;0;9999;9999;1
+Malphite;Earth;970;100;50;100
+Naga Siren;Water;549;56;6;28.8
+Sun Jun 13 11:49:08 2021|1|Fire
+19120272
+Gumball;Dark;9999;9999;9999;1
+Gumball;Dark;9999;9999;9999;1
+Gumball;Dark;9999;9999;9999;1
+Ti
+Luna;Metal;0;43;3;16.2
+Syndra;Fire;0;100;3;20
+Troll;Earth;0;48;2.5;13.5
+Sun Jun 13 11:50:02 2021|1|Metal
+19120272
+Darwin;Fire;11498.8;9999;9999;1
+Gumball;Ice;9999;9999;9999;1
+Hecarim;Wood;582;100;20;50
+beheo98
+Ursa;Earth;0;45;5;31.5
+Treant Protector;Wood;0;62;1.5;38
+Syndra;Fire;0;100;3;20
+Sun Jun 13 12:01:06 2021|2|Water
+Nguyen
+Sniper;Fire;0;36;2;29
+Sniper;Fire;0;36;2;29
+Sniper;Fire;0;36;2;29
+vuatrochoi
+Troll;Earth;117.5;48;2.5;15
+Luna;Metal;575.287;43;3;18
+Troll;Earth;620;48;2.5;15
+Sun Jun 13 17:30:14 2021|2|Fire
+1
+Sniper;Fire;0;36;2;29
+Sniper;Fire;0;36;2;29
+Sniper;Fire;0;36;2;29
+batuoc9999
+Luna;Metal;0;43;3;16.2
+Gumball;Ice;9999;9999;9999;1
+Sniper;Fire;454;36;2;29

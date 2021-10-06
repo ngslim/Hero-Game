@@ -1,0 +1,14 @@
+Sniper;Fire;454;36;2;29
+Troll;Earth;620;48;2.5;15
+Treant Protector;Wood;700;62;1.5;38
+Trasex;Metal;473;40;2;27
+Lanaya;Water;492;53;4;29
+Ursa;Earth;587;45;5;35
+Luna;Metal;435;43;3;18
+Naga Siren;Water;549;56;6;32
+Syndra;Fire;500;100;3;20
+Malphite;Earth;1000;100;50;100
+Nami;Water;300;20;0;20
+Hecarim;Wood;600;100;20;50
+Gumball;Ice;9999;9999;9999;1
+Darwin;Fire;9999;9999;9999;1
